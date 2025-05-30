@@ -1,2 +1,3 @@
 # instacart-retail-data-cleaning
-Análisis y limpieza de datos del conjunto Instacart. Incluye tratamiento de datos faltantes y duplicados, con documentación clara de decisiones y resultados.
+
+Proyecto de limpieza y análisis de datos basado en un conjunto modificado de pedidos de Instacart. Este ejercicio incluyó el tratamiento de valores ausentes, eliminación de duplicados y preparación de datos para análisis posteriores. Se documentan los pasos, justificaciones y hallazgos en cada etapa del proceso.
